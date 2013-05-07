@@ -1,4 +1,4 @@
-Have you foolishly archived your extensive and obviously legitimate ebook collection according to arcane scene rules? That is, an PDF/Epub/Mobi with a 8.3 filename inside multi-rars inside multi-zips inside a Dir-ect-tor-y? The cool kids tricked you with their ASCII art! I know. Me too. No worries though: I made a ruby script that extractz and renamez the bookz!
+Have you foolishly archived your extensive and obviously legitimate ebook collection according to arcane scene rules? That is, a PDF/Epub/Mobi with a 8.3 filename inside multi-rars inside multi-zips inside a Dir-ect-tor-y? The cool kids tricked you with their ASCII art! I know. Me too. No worries though: I made a ruby script that extractz and renamez the bookz!
 
 # Installation
 ## Technical Overview
