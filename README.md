@@ -2,10 +2,10 @@ Have you foolishly archived your extensive and obviously legitimate ebook collec
 
 # Installation
 ## Technical Overview
-	* Ruby (Any version)
-	* Unzip (in path or current directory)
-	* Unrar (in path or current directory)
-	* Moderate comfort with the commandline
+* Ruby (Any version)
+* Unzip (in path or current directory)
+* Unrar (in path or current directory)
+* Moderate comfort with the commandline
 
 ## Mac
 * [Download the zip](http://hub.darcs.net/JasonJAyalaP/ExtractBookz/raw/ExtractBookz.zip) and extract.
@@ -18,9 +18,8 @@ Have you foolishly archived your extensive and obviously legitimate ebook collec
 
 # Usage
 In the commandline, navigate to the directory where you extracted ExtractBookz, and type:
-```
-ruby ExtractBookz.rb "source" "target"
-```
+
+	ruby ExtractBookz.rb "source" "target"
 
 Source can either be a single directory like "~/My.Publisher.-.My.Crazy.Book.2011.ebook-DiGiBook/", or a folder that contains a bunch of those directories. ExtractBookz cleans up after itself, and won't delete or change the original directories. Target is where the bookz will go. If left blank, target will be the same folder as "source".
 
